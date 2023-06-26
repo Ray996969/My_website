@@ -1,0 +1,71 @@
+body{
+    margin: 0;
+    padding:  10px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    min-width: 400px;
+}
+
+
+input{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 2px solid  rgb(107,205,253) ;
+}
+
+button{
+    margin-top: 5px;
+    background-color: rgb(107,205,253);
+    padding: 10px;
+    border: 2px solid rgb(107,205,253);
+    color: white;
+    cursor: pointer;
+    border-radius: 20px;
+    font-weight: bold;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0,0.15);
+}
+
+#delet-btn{
+    background-color: rgb(107,205,253);
+    padding: 10px;
+    border: 2px solid rgb(107,205,253);
+    color: white;
+    cursor: pointer;
+    border-radius: 20px;
+    font-weight: bold;
+    box-shadow:5px 5px 10px rgba(0, 0, 0,0.15);
+    margin-left: 20px;
+
+}
+#tab-btn{
+    margin-left: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+
+}
+
+button:active{
+    opacity: 0.8;
+} 
+
+ul{
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+
+
+}
+
+li{
+    margin-top: 5px;
+
+
+}
+
+
+a{
+    color: rgb(107,205,253);
+
+}
